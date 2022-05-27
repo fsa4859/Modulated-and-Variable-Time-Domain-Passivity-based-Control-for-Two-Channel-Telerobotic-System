@@ -51,4 +51,16 @@ The MDPC takes into consideration the excess of passivity of the human biomechan
 ![image](https://user-images.githubusercontent.com/69100847/170693329-6972c5b7-1cfd-4fbf-8886-d45797df23a5.png)
 
 
+# VDPC
 
+## 
+The VDPC considers the variation of the excess of passivity during the system's operation.
+
+### Force Tracking
+
+![image](https://user-images.githubusercontent.com/69100847/170694435-ace4b334-9f60-4d68-8ebc-17e612e494ca.png)
+
+
+### Velocity Tracking
+
+![image](https://user-images.githubusercontent.com/69100847/170694497-ac4c171b-bdb2-4e3f-b146-5629c4f95e65.png)
