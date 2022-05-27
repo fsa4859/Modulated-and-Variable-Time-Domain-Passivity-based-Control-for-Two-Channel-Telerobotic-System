@@ -22,3 +22,15 @@ TDPC is a conservative approach that cancels any negative power backet being sen
 ![image](https://user-images.githubusercontent.com/69100847/170692051-4e1c2cc5-229c-4473-a366-c74ca40d94eb.png)
 
 
+## Assistive Behavior 
+
+### Force Tracking
+
+![image](https://user-images.githubusercontent.com/69100847/170692328-fae107fe-103d-46d8-a1b1-673a1525a829.png)
+
+
+### Velocity Tracking
+
+![image](https://user-images.githubusercontent.com/69100847/170692364-f877fc3a-0c6f-4cdc-96f4-9b1db56ead68.png)
+
+It can be seen that since the surgeon provides assistive therapy, the TDPC control approach cancels out the assistive energy (non passive) to ensure the system stability. 
