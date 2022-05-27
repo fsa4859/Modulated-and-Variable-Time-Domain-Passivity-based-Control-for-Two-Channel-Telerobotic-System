@@ -1,0 +1,2 @@
+# Modulated-and-Variable-Time-Domain-Passivity-based-Control-for-Two-Channel-Telerobotic-System
+This project implements TDPC (Time Domain Passivity based Control), MDPC (Modulated Time Domain Passivity Control) and Variable Time Domain Passivity Control. The objective is to ensure the overall passivity and hence stability of the telerobotic system in the presence of communication delay and non passive flow of energy.
